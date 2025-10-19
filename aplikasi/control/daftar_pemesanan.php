@@ -60,7 +60,7 @@ class daftar_pemesanan extends controller{
 
         // cetak_var($pesan1);
 
-        $this->tampilkan_view("/lihat/lihat_1", $pesan1);
+        $this->tampilkan_view("/lihat/lihat_2", $pesan1);
     }
 }
 
