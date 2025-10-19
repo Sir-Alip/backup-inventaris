@@ -5,26 +5,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WELCOME</title>
-    <link rel="stylesheet" href="http://localhost/46123012/praktikum_01/aplikasi/views/selamat_datang.css">
+    <link rel="stylesheet" href="https://ik.imagekit.io/o9m4namuc/selamat_datang.css?updatedAt=1760893661347">
+    <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.7.1/dist/dotlottie-wc.js" type="module"></script>
 </head>
 
-<body style="font-family: arial; text-align: center">
+<body style="font-family: arial; text-align: center; position: relative;">
+    <img src="https://ik.imagekit.io/o9m4namuc/gojo-2.png?updatedAt=1760890752534" alt="gojo" class="gojo">
+    <img src="https://ik.imagekit.io/o9m4namuc/geto-gojo.png?updatedAt=1760891618196" alt="geto gojo" class="geto-gojo">
+    <div class="gray-backdrop"></div>
+    <div class="lottie-container">
+        <dotlottie-wc src="https://lottie.host/9489fa07-a204-4f13-b647-b886b64735f9/zwdQGGDsmI.lottie"
+            speed="0.3"
+            mode="forward"
+            loop
+            autoplay
+            class="lottie-animation">
+        </dotlottie-wc>
+    </div>
     <br>
-    <h1 align="center" style="font-size: 85px;color: rgba(255, 255, 255, 1);">WELCOME TO</h1>
-    <h2 align="center" style="font-size: 70px;color: rgba(255, 255, 255, 1);">PRAKTIKUM 01</h2>
-    <!-- <h3 align="center" style="font-size: 45px;color: rgba(255, 255, 255, 1);">Nurmuhammad Alif 46123012</h3> -->
+    <div style="display: flex; flex-direction: column; align-items: center; margin:auto 0">
+        <img src="https://ik.imagekit.io/o9m4namuc/jjk-teks.png?updatedAt=1760888471577" height="200" alt="jjk">
+        <img src="https://ik.imagekit.io/o9m4namuc/biodata.png?updatedAt=1760889912937" alt="nama" height="150">
+    </div>
 
-    <h2 align="center" style="color: rgb(255, 254, 254)">I don't care how long it takes</h2>
 
-    <h2 align="center" style="color: rgb(255, 254, 254)">As long as i'm with her, I've got a smile on my face</h2>
 
-    <h2 align="center" style="color: rgb(255, 254, 254)">Nurmuhammad Alif 46123012</h2>
-
-    <h1 class="putih">wadaw</h1>
 
     <br><br>
-    <!-- <h4 style="margin: 0;"><a href="http://localhost/praktikum10/praktikum10" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); padding: 5px 10px; text-decoration: none;">PRAKTIKUM 10</a></h4><br> -->
-    <!-- <h4 style="margin: 0;"><a href="http://localhost/praktikum12/alif/alif" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); padding: 5px 10px; text-decoration: none;">PRAKTIKUM 12</a></h4><br> -->
     </p> <br>
     <div class="buttons-container">
         <div class="row-1">
@@ -39,6 +46,9 @@
             <a href="http://localhost/46123012/praktikum_01/daftar_kasir/data_daftar_kasir">DAFTAR KASIR</a>
         </div>
     </div>
+    <footer>
+        &copy; 2025 &middot; Sebuah harapan harus dibarengi dengan usaha dan pantang menyerah🤭
+    </footer>
 </body>
 
 </html>
