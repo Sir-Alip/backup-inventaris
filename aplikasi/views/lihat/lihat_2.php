@@ -11,20 +11,20 @@ ob_start(); // Start output buffering
                     <div class="card">
                         <div class="card-header">
 
-                            <h1 class="" align='center'> PEMESANAN BARU </h1>
+                            <h1 class="" align='center'> PEMESANAN BARANG </h1>
 
                         </div>
                         <div class="card-body">
                             <div class="form-group row mb-4">
                                 <label class="col-4">Nomor Pemesanan</label>
                                 <div class="col-7">
-                                    <input type="text" class="form-control form-control-sm" value="1">
+                                    <input type="text" class="form-control form-control-sm" value="2">
                                 </div>
                             </div>
                             <div class="row form-group mb-4">
                                 <label class="col-4">Tanggal Pemesanan</label>
                                 <div class="col-7">
-                                    <input type="text" class="form-control form control-sm" value="2025-12-01">
+                                    <input type="text" class="form-control form control-sm" value="2025-12-02">
                                 </div>
                             </div>
                             <div class="table-responsive">
@@ -40,16 +40,24 @@ ob_start(); // Start output buffering
                                     <tbody>
                            
                                         <tr>
-                                            <td scope="row">Hydropack</td>
-                                            <td>5</td>
-                                            <td>150000</td>
-                                            <td>750000</td>
+                                            <td scope="row">Sepatu</td>
+                                            <td>10</td>
+                                            <td>550000</td>
+                                            <td>5500000</td>
+
+                                           
+                                        </tr>
+                                        <tr>
+                                             <td scope="row">Carrier</td>
+                                            <td>7</td>
+                                            <td>500000</td>
+                                            <td>3500000</td>
                                         </tr>
                                     </tbody>
                                     <tfoot>
                                         <tr>
                                             <td colspan="3" align="center"><b> TOTAL <b></td>
-                                            <td colspan="" align="left">1225000 </td>
+                                            <td colspan="" align="left">9000000 </td>
 
                                         </tr>
                                     </tfoot>
@@ -75,7 +83,7 @@ ob_start(); // Start output buffering
 
                                         </div>
                                     </div>
-                                    <a class="btn btn-info" href="http://alpha.3ac-collective.com/46123012/praktikum_01/daftar_pemesanan/data_daftarpemesanan">BACK</a>
+                                    <a class="btn btn-info" href="http://alpha.3ac-collective.com/46123012/praktikum_01/daftar_pemesanan/data_daftarpemesanan">KEMBALI</a>
                                 </div>
                             </div>
                         </div>

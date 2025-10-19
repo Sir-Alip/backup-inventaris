@@ -18,13 +18,13 @@ ob_start(); // Start output buffering
                             <div class="form-group row mb-4">
                                 <label class="col-4">Nomor Pemesanan</label>
                                 <div class="col-7">
-                                    <input type="text" class="form-control form-control-sm" value="1">
+                                    <input type="text" class="form-control form-control-sm" value="7">
                                 </div>
                             </div>
                             <div class="row form-group mb-4">
                                 <label class="col-4">Tanggal Pemesanan</label>
                                 <div class="col-7">
-                                    <input type="text" class="form-control form control-sm" value="2025-12-01">
+                                    <input type="text" class="form-control form control-sm" value="2025-12-11">
                                 </div>
                             </div>
                             <div class="table-responsive">
@@ -40,22 +40,24 @@ ob_start(); // Start output buffering
                                     <tbody>
                            
                                         <tr>
-                                            <td scope="row">Tracking pole		</td>
-                                            <td>5</td>
-                                            <td>95000</td>
-                                            <td>475000</td>
+                                            <td scope="row">Sepatu</td>
+                                            <td>70</td>
+                                            <td>800000</td>
+                                            <td>56000000</td>
+
+                                           
                                         </tr>
                                         <tr>
-                                            <td scope="row">Hydropack</td>
-                                            <td>5</td>
-                                            <td>150000</td>
-                                            <td>750000</td>
+                                             <td scope="row">Tracking pole</td>
+                                            <td>50</td>
+                                            <td>115000</td>
+                                            <td>5750000</td>
                                         </tr>
                                     </tbody>
                                     <tfoot>
                                         <tr>
                                             <td colspan="3" align="center"><b> TOTAL <b></td>
-                                            <td colspan="" align="left">1225000 </td>
+                                            <td colspan="" align="left">61750000 </td>
 
                                         </tr>
                                     </tfoot>
@@ -71,13 +73,13 @@ ob_start(); // Start output buffering
                                     </div>
                                     <div class="row form-group">
                                         <div class="col-3 mb-2">
-                                            <input type="text" class=" form-control form control-sm" value="King Outdoor">
+                                            <input type="text" class=" form-control form control-sm" value="Sunrise">
                                         </div>
                                         <div class="col-3 mb-2">
-                                            <input type="text" class="form-control form control-sm" value="Jl. Paccerakkang">
+                                            <input type="text" class="form-control form control-sm" value="Komp. Mangga Tiga">
                                         </div>
                                         <div class="col-3">
-                                            <input type="text" class="form-control form control-sm" value="082214367568">
+                                            <input type="text" class="form-control form control-sm" value="085639462817">
 
                                         </div>
                                     </div>

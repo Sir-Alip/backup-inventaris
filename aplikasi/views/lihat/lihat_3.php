@@ -18,13 +18,13 @@ ob_start(); // Start output buffering
                             <div class="form-group row mb-4">
                                 <label class="col-4">Nomor Pemesanan</label>
                                 <div class="col-7">
-                                    <input type="text" class="form-control form-control-sm" value="1">
+                                    <input type="text" class="form-control form-control-sm" value="3">
                                 </div>
                             </div>
                             <div class="row form-group mb-4">
                                 <label class="col-4">Tanggal Pemesanan</label>
                                 <div class="col-7">
-                                    <input type="text" class="form-control form control-sm" value="2025-12-01">
+                                    <input type="text" class="form-control form control-sm" value="2025-12-03">
                                 </div>
                             </div>
                             <div class="table-responsive">
@@ -40,22 +40,24 @@ ob_start(); // Start output buffering
                                     <tbody>
                            
                                         <tr>
-                                            <td scope="row">Tracking pole		</td>
-                                            <td>5</td>
-                                            <td>95000</td>
-                                            <td>475000</td>
+                                            <td scope="row">Daypack</td>
+                                            <td>50</td>
+                                            <td>350000</td>
+                                            <td>17500000</td>
+
+                                           
                                         </tr>
                                         <tr>
-                                            <td scope="row">Hydropack</td>
-                                            <td>5</td>
-                                            <td>150000</td>
-                                            <td>750000</td>
+                                             <td scope="row">Jaket</td>
+                                            <td>30</td>
+                                            <td>200000</td>
+                                            <td>6000000</td>
                                         </tr>
                                     </tbody>
                                     <tfoot>
                                         <tr>
                                             <td colspan="3" align="center"><b> TOTAL <b></td>
-                                            <td colspan="" align="left">1225000 </td>
+                                            <td colspan="" align="left">23500000 </td>
 
                                         </tr>
                                     </tfoot>
